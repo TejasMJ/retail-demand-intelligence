@@ -71,6 +71,7 @@ opentelemetry-semantic-conventions==0.65b0
 packaging==26.3
 pandas==2.3.3
 parso==0.8.7
+patsy==1.0.2
 pillow==12.3.0
 platformdirs==4.11.3
 plotly==6.9.0
@@ -107,6 +108,7 @@ SQLAlchemy==2.0.52
 sqlparse==0.6.0
 stack-data==0.6.3
 starlette==1.6.0
+statsmodels==0.14.6
 threadpoolctl==3.6.0
 tornado==6.5.8
 traitlets==5.16.1
@@ -118,5 +120,6 @@ uvicorn==0.52.4
 waitress==3.0.2
 wcwidth==0.8.2
 Werkzeug==3.1.8
+xgboost==3.2.0
 yarl==1.24.5
 zipp==4.1.0
