@@ -17,4 +17,4 @@ __pycache__/
 Thumbs.db
 
 #models folder
-.models/
+models/
