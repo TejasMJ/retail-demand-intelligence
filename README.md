@@ -31,26 +31,26 @@ The project is organized as follows:
 Retail_Demand_Intelligence/
 │
 ├── data/
-│   ├── raw/                         # Original dataset
-│   └── processed/                   # Processed and feature-engineered data
+│   ├── raw/                            # Original dataset
+│   └── processed/                      # Processed and feature-engineered data
 │
 ├── notebooks/
-│   ├── 01_data_understanding.ipynb  # Dataset inspection and understanding
-│   ├── 02_eda.ipynb                 # Exploratory Data Analysis
-│   ├── 03_data_preparation.ipynb    # Data preprocessing
-│   ├── 04_feature_engineering.ipynb # Feature creation
-│   ├── 05_model_development.ipynb   # Model development and tuning
-│   ├── 06_model_evaluation.ipynb    # Model evaluation and error analysis
-│   └── 07_model_explainability.ipynb# Model explainability
+│   ├── 01_data_understanding.ipynb     # Dataset inspection and understanding
+│   ├── 02_eda.ipynb                    # Exploratory Data Analysis
+│   ├── 03_data_preparation.ipynb       # Data preprocessing
+│   ├── 04_feature_engineering.ipynb    # Feature creation
+│   ├── 05_model_development.ipynb      # Model development and tuning
+│   ├── 06_model_evaluation.ipynb       # Model evaluation and error analysis
+│   └── 07_model_explainability.ipynb   # Model explainability
 │
-├── models/                          # Saved trained models (if applicable)
+├── models/                             # Saved trained models (if applicable)
 │
 ├── reports/
-│   └── figures/                     # Project visualizations
+│   └── figures/                        # Project visualizations
 │
-├── requirements.txt                 # Python dependencies
-├── README.md                        # Project documentation
-└── .gitignore                       # Git ignored files
+├── requirements.txt                    # Python dependencies
+├── README.md                           # Project documentation
+└── .gitignore                          # Git ignored files
 ```
 
 ---
@@ -96,7 +96,7 @@ Retail_Demand_Intelligence/
 +---------------------------+
 |   FEATURE ENGINEERING     |
 |                           |
-|  - Temporal features     |
+|  - Temporal features      |
 |  - Inventory features     |
 |  - Pricing features       |
 |  - Historical demand      |
@@ -134,7 +134,7 @@ Retail_Demand_Intelligence/
 |     BUSINESS INSIGHTS     |
 |                           |
 |  Demand patterns          |
-|  Inventory insights      |
+|  Inventory insights       |
 |  Model limitations        |
 |  Forecasting insights     |
 +---------------------------+
